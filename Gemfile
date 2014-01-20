@@ -1,3 +1,5 @@
-#source "http://rubygems.org"
+source "http://rubygems.org"
 
-gemspec
+#gem "instagram", github: "grzesir/instagram-ruby-gem"
+gemspec # :path => "instagram.gemspec"
+
